@@ -1,3 +1,3 @@
 # hello
 name = input("Ingrese nombre: ")
-print("Hello ", name)
+print("Hello <", name, ">")
