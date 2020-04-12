@@ -1,3 +1,3 @@
 # hello
-name = input("Ingrese nombre: ")
-print("Hello <", name, ">")
+nombr: Jean Paul Melendez Cabezas
+codigo: 201820139
