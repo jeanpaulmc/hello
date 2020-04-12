@@ -1,2 +1,3 @@
 # hello
-other reposiroty
+name = input("Ingrese nombre: ")
+print("Hello ", name)
