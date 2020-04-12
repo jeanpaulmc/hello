@@ -1,3 +1,3 @@
 # hello
-nombr: Jean Paul Melendez Cabezas
+nombre: Jean Paul Melendez Cabezas
 codigo: 201820139
